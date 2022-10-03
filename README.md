@@ -1,7 +1,8 @@
 PROJ2 - ANÁLISE COM POWER BI
 
-SOBRE O PROJETO: Criei um cenário de uma empresa que aprensenta problemas e que se baseia em muitas situações de empresas no dia a dia. 
-Depois vou mostrar a solução com base no meu conhecimento sobre análise de dados. Irei criar um modelo para o problema de negócio, construir o banco de dados para receber os dados consolidados, carrega-los com ETL e depois analisar com Power BI.
+SOBRE O PROJETO: Criei um cenário de uma empresa que aprensenta problemas e que se baseia em muitas situações de empresas hoje no dia a dia. 
+Depois mostraei a solução com base no meu conhecimento sobre análise de dados. Criei um modelo para o problema de negócio, construi o banco de dados para receber os dados consolidados, carreguei eles com ETL e depois analisei com Power BI.
+OBS.: Eu poderia ter criado direto o modelo lógico dimensional (que é um modelo implementado em um DW), mas optei por começar desde o modelo lógico transacional para trazer mais conhecimento e apresentar de forma mais didática, porque a partir do modelo lógico transacional, fica muito mais fácil criar o modelo lógico dimensional.
 
 DISCRIÇÃO DO PROBLEMA: A Cobra Blue Inc.com sede em Campinas-SP, é uma das maiores empresas do Brasil no segmento de venda de eletrônicos direto ao consumidor.
 A empresa possui diversas lojas em todo estado de São Paulo, além de Rio de Janeiro, Minas Gerais, Pernambuco, Bahia, Goiás e Santa Catarina. 
