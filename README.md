@@ -2,8 +2,9 @@ PROJ2 - ANÁLISE COM POWER BI
 
 SOBRE O PROJETO: Criei um cenário de uma empresa que aprensenta problemas e que se baseia em muitas situações de empresas hoje no dia a dia. 
 Depois mostraei a solução com base no meu conhecimento sobre análise de dados. Criei um modelo para o problema de negócio, construi o banco de dados para receber os dados consolidados, carreguei eles com ETL e depois analisei com Power BI.
+O objetivo de ter criado o modelo lógico transacional foi exatamente compreender como a informação esta fluindo dentro da empresa no dia a dia. A informação está distribuída em várias tabelas e realizar consultas vai comprometer a performance do banco de dados, pois a consulta fica muito pesada e posso causar problemas com os usuários/clientes. Então vou contruir um banco de dados de relatório (que é esse o objetivo principal do meu trabalho) para facilitar meu trabalho. 
     
-OBS.: Eu poderia ter criado direto o modelo lógico dimensional (que é um modelo implementado em um DW), mas optei por começar desde o modelo lógico transacional para trazer mais conhecimento e apresentar de forma mais didática, porque a partir do modelo lógico transacional, fica muito mais fácil criar o modelo lógico dimensional, depois o modelo físico e então construir o DW.
+OBS.: Eu poderia ter criado direto o modelo lógico dimensional (que é um modelo implementado em um DW), mas optei por começar desde o modelo lógico transacional para trazer mais conhecimento e apresentar de forma mais didática. A partir do modelo lógico transacional, fica muito mais fácil criar o modelo lógico dimensional, depois o modelo físico e então construir o DW.
 
 DISCRIÇÃO DO PROBLEMA: A Cobra Blue Inc.com sede em Campinas-SP, é uma das maiores empresas do Brasil no segmento de venda de eletrônicos direto ao consumidor.
 A empresa possui diversas lojas em todo estado de São Paulo, além de Rio de Janeiro, Minas Gerais, Pernambuco, Bahia, Goiás e Santa Catarina. 
