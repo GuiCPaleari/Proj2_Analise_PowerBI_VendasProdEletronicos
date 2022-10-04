@@ -4,7 +4,7 @@
 TRUNCATE DIMENSIONAL.DIM_TEMPO;
 
 
-# Criando uma Stored Procedure
+# Criando uma Stored Procedure para automatizar o processo de carga
 DELIMITER //
 CREATE PROCEDURE DIMENSIONAL.CARREGA_DIM_TEMPO(IN startdate DATE, IN stopdate DATE)
 BEGIN
